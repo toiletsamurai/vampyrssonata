@@ -30,6 +30,5 @@ label start:
     "The creature obediently follows the vampire as they disappear into the night."
     scene bg black
     stop music fadeout 3.0
-fadeout 5.0
-fadein 2.0
+
 scene bg pub
